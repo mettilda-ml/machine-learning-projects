@@ -1,20 +1,26 @@
-# machine-learning-projects
-# Hi, I'm Mettilda 👋
+# Machine Learning Projects
 
-🎯 Aspiring Data Analyst / ML Engineer  
-📍 Learning Python, Pandas, Machine Learning  
-💡 Passionate about restarting my IT career  
+This repository contains my Machine Learning practice and implementation projects using Python.
 
-## 🔧 Skills
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+## 📌 Projects Included
 
-## 📂 Projects
-- Salary Prediction Model
-- Car Price Prediction
-- Data Analysis Projects
+### 1️⃣ Salary Prediction
+- Algorithm: Multiple Linear Regression
+- Tools Used: Python, Pandas, Scikit-learn
+- Goal: Predict salary based on input features
 
-🌱 Currently learning Machine Learning & Git
+### 2️⃣ Car Price Prediction
+- Algorithm: Regression Model
+- Tools Used: Pandas, Matplotlib
+- Goal: Predict car price using dataset features
+
+---
+
+## 🛠 Skills Practiced
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Data Visualization
+
+More projects coming soon 🚀
